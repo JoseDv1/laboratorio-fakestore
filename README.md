@@ -19,7 +19,7 @@ npm run start
 ### Debug
 
 - http://fakestore.shop
-- localhost:8080/public
+- localhost:8080
 
 ### Documentación
 
@@ -129,3 +129,9 @@ Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en 
 ### Licencia
 
 js-challenge se lanza bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
+### Construir el proyecto
+
+```
+npm run build
+```
