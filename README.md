@@ -13,7 +13,7 @@ npm install
 ### Ejecución
 
 ```
-npm run start
+npm run dev
 ```
 
 ### Debug
